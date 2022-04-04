@@ -1,6 +1,6 @@
 import string
 # El limite de desplazamiento es 11 sin embargo para textos largos aplica hasta 6
-desplazamiento =5
+desplazamiento =4
 
 def codifica (texto):
     cifrado = ""
